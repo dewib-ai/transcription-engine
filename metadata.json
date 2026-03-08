@@ -1,0 +1,5 @@
+{
+  "name": "Transcription Engine",
+  "description": "High-accuracy, clean verbatim media transcription tool supporting audio/video files and URLs.",
+  "requestFramePermissions": []
+}
